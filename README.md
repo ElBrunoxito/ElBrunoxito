@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Bruno Aguilar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -17,11 +17,12 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Self-taught fullstack developer enthusiast
+- I really like basketball
+- I'm currently learning engineering and AI development
+- Personal website [link](https://elbrunoxito.github.io/Mi-pofolio/)
+- I'm currently open to an internship or a new job opportunity.
+- I'm now working as a freelance engineer and developer
 
 <br><br>
 
@@ -32,55 +33,49 @@
 
 <p align="center">
 
-- **Languages**:
-    
-  ![Java](https://img.shields.io/badge/Java-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%232370ED.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-%232370ED.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%232370ED.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-%232370ED.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-
-<br>   
-    
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
 
 <br>
 
-- **Frameworks**:
-
-    ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%232370ED.svg?style=for-the-badge&logo=springboot&logoColor=white)
-    ![Flask](https://img.shields.io/badge/Flask-%232370ED.svg?style=for-the-badge&logo=flask&logoColor=white)
-    ![Laravel](https://img.shields.io/badge/Laravel-%232370ED.svg?style=for-the-badge&logo=laravel&logoColor=white)
-    ![Angular](https://img.shields.io/badge/Angular-%232370ED.svg?style=for-the-badge&logo=angular&logoColor=white)
-    ![React](https://img.shields.io/badge/React-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
-    ![Flutter](https://img.shields.io/badge/Flutter-%232370ED.svg?style=for-the-badge&logo=flutter&logoColor=white)
-
+### **Front-End Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
 <br>
 
+### **Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 
-- **Cloud Hosting**:
-    ![AWS](https://img.shields.io/badge/AWS-%232370ED.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%232370ED.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
 <br>
 
-- **Softwares and Tools**:
+### **Cloud Hosting**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)  
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%2324292F.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%232370ED.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+<br>
+
+### **Softwares and Tools**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000080.svg?style=for-the-badge&logo=intellijidea&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+
 
 <br>
 
