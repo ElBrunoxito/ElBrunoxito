@@ -40,6 +40,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%232370ED.svg?style=for-the-badge&logo=node.js&logoColor=white)
     ![TypeScript](https://img.shields.io/badge/TypeScript-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-%232370ED.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 <br>   
     
@@ -51,6 +53,18 @@
 
 <br>
 
+<br>   
+    
+- **Frameworks**:
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%232370ED.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%232370ED.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%232370ED.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%232370ED.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%232370ED.svg?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%232370ED.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+<br>
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
