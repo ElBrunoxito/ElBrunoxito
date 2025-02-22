@@ -36,7 +36,7 @@
 
 <p align="center">
 
-### **Languages**
+- **Languages**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
@@ -47,7 +47,7 @@
 
 <br>
 
-### **Front-End Development**
+- **Front-End Development**
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -55,7 +55,7 @@
 
 <br>
 
-### **Frameworks**
+- **Frameworks**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
@@ -65,14 +65,14 @@
 
 <br>
 
-### **Cloud Hosting**
+- **Cloud Hosting**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)  
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%2324292F.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 <br>
 
-### **Softwares and Tools**
+- **Softwares and Tools**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Google](https://img.shields.io/badge/Google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)  
