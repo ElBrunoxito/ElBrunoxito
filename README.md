@@ -54,7 +54,7 @@
 <br>
 
 <br>   
-    - **Frameworks**:
+- **Frameworks**:
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%232370ED.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%232370ED.svg?style=for-the-badge&logo=flask&logoColor=white)
