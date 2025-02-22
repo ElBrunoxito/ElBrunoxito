@@ -87,7 +87,8 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Docker](https://img.shields.io/badge/Docker-%230087E7.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 
 </p>
 
